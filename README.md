@@ -18,3 +18,4 @@ Bu projede boş ve dolu PCB kartlarının MATLAB ortamında
 MATLAB klasörüne tüm dosyaları ekleyip:
 ```matlab
 pcb_overlay
+komutu ile çalıştırabilirsiniz.
